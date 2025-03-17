@@ -43,7 +43,7 @@ The Speech-to-Text Transcription App is a full-stack web application that allows
 
     ```
     cd backend
-    npm install
+    node server.js
     ```
 
 3.  **Configuration:**
